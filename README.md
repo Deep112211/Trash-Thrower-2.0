@@ -1,1 +1,2 @@
-# Trash-Thrower-2.0
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
